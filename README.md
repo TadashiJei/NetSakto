@@ -23,4 +23,5 @@ Advanced Coinslot System ():
 - Comprehensive Dashboard & Sales Reports (): Track sales performance and gain valuable insights with detailed reports.
 - Custom PIN Configuration (): Enhance security by allowing customers to set custom PINs for their WiFi access.
 - Advanced Coin Abuse Configuration (️): Fine-tune anti-coin abuse settings for optimal protection.
-- NetSakto empowers you to turn your internet connection into a profitable revenue stream. Start selling instant WiFi access today!
+
+NetSakto empowers you to turn your internet connection into a profitable revenue stream. Start selling instant WiFi access today!
