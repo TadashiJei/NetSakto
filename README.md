@@ -25,3 +25,7 @@ Advanced Coinslot System ():
 - Advanced Coin Abuse Configuration (️): Fine-tune anti-coin abuse settings for optimal protection.
 
 NetSakto empowers you to turn your internet connection into a profitable revenue stream. Start selling instant WiFi access today!
+
+---
+Guide Installation
+---
